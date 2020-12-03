@@ -580,7 +580,7 @@
     </div>
 
     <footer class="bg-dark mt-4 p-5 text-center" style="color: #FFFFFF;">
-		Copyright &copy; 2020 Resilient All Rights Reserved.
+		-Copyright &copy; 2020 Resilient All Rights Reserved-
 
     </footer>
 
